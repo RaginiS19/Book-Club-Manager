@@ -27,23 +27,23 @@ Book Club Manager is a web-based Content Management System (CMS) built using ASP
 - ClubMember (join table)	ClubId, MemberId	Links Members and Clubs
 - MeetingMember (join table)	MeetingId, MemberId	Tracks who attended what
 
-## MVP Features
-Book CRUD
-Add/edit/delete books
-View all books
-Club CRUD
-Add/edit/delete clubs
-Add members to a club
+ ## MVP Features
+- Book CRUD
+* Add/edit/delete books
+* View all books
+* Club CRUD
+* Add/edit/delete clubs
+* Add members to a club
 
-Member CRUD
-Add/edit/delete members
-Assign to one or multiple clubs
-Meeting Scheduler
-Assign a book and club to each meeting
-Add members who attended
+- Member CRUD
+* Add/edit/delete members
+* Assign to one or multiple clubs
+* Meeting Scheduler
+* Assign a book and club to each meeting
+* Add members who attended
 
-Search & Filter
-Filter meetings by club
-Search books by genre or author
+- Search & Filter
+* Filter meetings by club
+* Search books by genre or author
 
 
