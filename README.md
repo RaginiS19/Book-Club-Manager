@@ -19,7 +19,7 @@ Book Club Manager is a web-based Content Management System (CMS) built using ASP
 - LINQ & Razor Views
 
 ## Entities and Relationships
-🧱 Entity	Key Fields	Relationships
+Entity	Key Fields	Relationships
 - Book	Title, Author, Genre, Summary	One-to-many with Meeting
 - Club	Name, Description, Location	One-to-many with Meeting, many-to-many with Member
 - Member	Name, Email, Role	Many-to-many with Club, many-to-many with Meeting
